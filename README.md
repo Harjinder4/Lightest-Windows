@@ -11,6 +11,7 @@ Get the official evaluation version from Microsoft:
 2. [Windows 10 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 
 ### 2️⃣ Install Windows 10 / 11 LTSC  
+[Guide](https://support.microsoft.com/en-us/windows/reinstall-windows-with-the-installation-media-d8369486-3e33-7d9c-dccc-859e2b022fc7)
 Follow installation guides online if you're unsure how to install Windows:  
 1. Plan. Back up your files and settings before installing this evaluation.
 2. Upon installation, Windows 10/11 IoT Enterprise LTSC will prompt you to activate. A product key is not required for this software.
