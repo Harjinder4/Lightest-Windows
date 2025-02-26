@@ -27,7 +27,7 @@ Get the official evaluation version from Microsoft:
 
 🚀 Done! Let me know if you need more details.
 
-### 3️⃣ Activation  (optional and not recommanded)
+### 3️⃣ Activation  (**WARNING** optional and not recommanded)
 [**"Activation Open Me 11"**](https://github.com/Harjinder4/Lightest-Windows/blob/main/LTSC%20ACTIVATION11.zip).
 [**"Activation Open Me 10"**](https://github.com/Harjinder4/Lightest-Windows/blob/main/LTSC%20ACTIVATION10.zip).
 
