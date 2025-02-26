@@ -10,22 +10,22 @@ Get the official evaluation version from Microsoft:
 1. [Windows 11 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)
 2. [Windows 10 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 
+
 ### 2️⃣ Install Windows 10 / 11 LTSC  
 
-### **Steps to Install Windows (Short Version)**  
-
-1. **Create Bootable USB** – Download Windows ISO & make a bootable USB using [**Rufus**](https://rufus.ie/en/).  
+#### **Quick Installation Steps:**  
+1. **Create Bootable USB** – Download **Windows LTSC ISO** & use [Rufus](https://rufus.ie/en/) to make a bootable USB.  
 2. **Boot from USB** – Restart PC, enter **BIOS**, and set USB as the boot device.  
 3. **Install Windows** – Select **Custom Install**, format the drive, and proceed.  
-4. **Setup & Updates** – Complete setup, install drivers, and update Windows.  
+4. **Setup & Updates** – Complete the setup, install drivers, and update Windows.  
 
-Done! 🚀
+✅ **Important Notes:**  
+- Backup files before installing.  
+- Activation is required, but no product key is needed.  
+- Once installed, **you cannot uninstall LTSC** or revert via recovery partition. A fresh OS install is needed.  
+- **Failure to activate** leads to a black screen, persistent "not genuine" warnings, and hourly shutdowns.  
 
-Follow installation guides online if you're unsure how to install Windows:  
-1. Plan. Back up your files and settings before installing this evaluation.
-2. Upon installation, Windows 10/11 IoT Enterprise LTSC will prompt you to activate. A product key is not required for this software.
-3. If you decide that you want to install Windows 10/11 IoT Enterprise LTSC using one of the provided ISO files, you won't be able to uninstall it. In addition, after you install Windows 10/11 IoT Enterprise LTSC Evaluation, you won't be able to use the recovery partition on your PC to go back to your previous version of Windows. A clean installation of your former operating system will be required, and you will need to re-install all your programs and data.
-4. If you fail to activate this evaluation after installation, or if your evaluation period expires, the desktop background will turn black, you will see a persistent desktop notification indicating that the system is not genuine, and the PC will shut down every hour.
+🚀 Done! Let me know if you need more details.
 
 ### 3️⃣ Activation  (optional and not recommanded)
 Refer to the **"Activation Open Me"** file to activate your Windows installation.
@@ -40,6 +40,7 @@ Winget allows you to install apps easily. Download it from:
 
 ### 5️⃣ Apply Windows Utility Tweaks (Titus Tech Tips)  
 Run the following PowerShell command to tweak your system using Chris Titus Tech’s Windows Utility:  
+[Guide](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file#chris-titus-techs-windows-utility)
 
 ```powershell
 irm "https://christitus.com/win" | iex
