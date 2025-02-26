@@ -1,5 +1,5 @@
 
-# Windows 11 LTSC Installation & Tweaks
+# Windows 10 / 11 LTSC Installation & Tweaks
 
 This guide walks you through installing Windows 11 IoT Enterprise LTSC and tweaking it using useful tools and utilities.
 
@@ -7,18 +7,22 @@ This guide walks you through installing Windows 11 IoT Enterprise LTSC and tweak
 
 ### 1️⃣ Download Windows 11 IoT Enterprise LTSC  
 Get the official evaluation version from Microsoft:  
-[Download Here](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)
+1. [Windows 11 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval)
+2. [Windows 10 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 
-### 2️⃣ Install Windows 11 IoT  
+### 2️⃣ Install Windows 10 / 11 LTSC  
 Follow installation guides online if you're unsure how to install Windows:  
-(Search for guides on how to install Windows on your system)
+1. Plan. Back up your files and settings before installing this evaluation.
+2. Upon installation, Windows 10/11 IoT Enterprise LTSC will prompt you to activate. A product key is not required for this software.
+3. If you decide that you want to install Windows 10/11 IoT Enterprise LTSC using one of the provided ISO files, you won't be able to uninstall it. In addition, after you install Windows 10/11 IoT Enterprise LTSC Evaluation, you won't be able to use the recovery partition on your PC to go back to your previous version of Windows. A clean installation of your former operating system will be required, and you will need to re-install all your programs and data.
+4. If you fail to activate this evaluation after installation, or if your evaluation period expires, the desktop background will turn black, you will see a persistent desktop notification indicating that the system is not genuine, and the PC will shut down every hour.
 
 ### 3️⃣ Activation  (optional and not recommanded)
 Refer to the **"Activation Open Me"** file to activate your Windows installation.
 
 ---
 
-## 🔧 Essential Tweaks & Utilities
+## 🔧 Essential Tweaks & Utilities (optional)
 
 ### 4️⃣ Install Winget (Windows Package Manager)  
 Winget allows you to install apps easily. Download it from:  
@@ -61,7 +65,7 @@ winget install 9WZDNCRFJ3Q2   # MSN Weather
 ---
 
 ## ✅ Final Notes  
-- This guide ensures a minimal and efficient Windows 11 IoT setup.  
+- This guide ensures a minimal and efficient Windows 10 / 11 IoT setup.  
 - Always check for updates and security patches.  
 - Feel free to customize further with other tweaks.  
 
